@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://github.com/alhamdirifai/sistem-rental-mobil/blob/main/ss1.png?raw=true)
 
 # Rental-Mobil
 Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yang mampu berfungsi dengan baik.
